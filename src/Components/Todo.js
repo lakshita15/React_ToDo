@@ -99,6 +99,7 @@ export default class todo extends Component {
             <div className="main">
                 <div className="input-container">
                     <input 
+                    placeholder="✍Enter Your Todo"
                     value={this.state.currtask}
                     onChange={this.handleChange} 
                     type="text">

@@ -33,3 +33,6 @@ input{
     display: flex;
     place-content: center;
 }
+::placeholder{
+    font-size: 1vw;
+}
