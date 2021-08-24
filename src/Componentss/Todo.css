@@ -1,0 +1,35 @@
+li{
+    list-style: none;
+}
+body{
+    background-color: #5757ae;
+}
+button{
+    font-size: 1.5rem;
+    background: none;
+    /* margin: 1vw; */
+    border: none;
+    font-weight: 800;
+}
+h1{
+    color: azure;
+}
+input{
+    font-size: 1.5rem;
+    background: powderblue;
+    margin: 1vw;
+    /* border: none; */
+    font-weight: 800;
+}
+.main{
+    width: 50rem;
+    
+    padding: 2rem;
+    font-size: 1.5rem;
+}
+.App{
+    text-align: center;
+    /* width: 62vw; */
+    display: flex;
+    place-content: center;
+}
